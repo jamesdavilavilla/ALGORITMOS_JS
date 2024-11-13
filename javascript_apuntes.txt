@@ -1,0 +1,69 @@
+javascript
+
+
+javascript es un lenguaje de programacion versatil y dinamico ampliamente utilizado en el desarrollo web
+diseñado principalmente para ejecutarse en navegadores
+permite la creacion de sitios web interactivos y dinamicos
+existen dos grupos importantes en los que podemos categorizar los lenguajes de programacion
+
+1.compilados
+	son lenguajes cuyo codigo fuente se traduce por completo a lenguaje de maquina antes de su ejecucion mediante un compilador
+	algunos de estos son java c++ y c#
+
+2.interpretados
+	son lenguajes cuyo codigo fuente se ejecutaa en tiempo real linea por linea a traves de un interprete que convierte en lenguaje de maquina
+	algunos de estos son javascript python y php
+
+3.porque aprender javascript
+	javascript hace parte de los 3 lenguajes basicos del desarrollo web, se trabaja en front o back, si se aprende correctamente se podria trabajar
+	en multiples entornos de desarrollo,
+	.parte web front-end
+	.frameworks
+		.reactjs
+		.angular
+		.vuejs
+	
+	.parte web back-end
+	.frameworks
+		.nodejs
+		.express
+
+	.aplicaciones moviles
+	.frameworks
+		.reactNative
+		.IONIC
+
+
+
+	.software escritorio
+	.frameworks
+		.electron
+
+
+4.que necesito para aprender javascript
+	.para ejecutar y probar el codigo javascript en un entorno real es indispensable contar con un navegador web instalado
+	.necesitamos de un editor de codigo para escribir javascript de forma eficiente
+	.debemos contar con la instalacion de nodejs para hacer pruebas en consola
+	.un buen dominio de html y css proporciona la base necesaria para desarrollar aplicaciones web dinamicas e interactivas con javascript
+
+
+
+5.fundamentos de programacion
+	.son los principios basicos que son paralelos o transversales en la mayoria de lenguajes de programacion estos fundamentos son universales
+	y proporcionan una base solida para desarrollar habilidades de programacion independientemente del lenguaje especifico que se este utilizando
+		.sintaxis y semantica
+		.variables
+		.tipos de datos
+		.estructuras de control condicionales
+		.estructuras de control de bucles
+		.funciones:una funcion es un pedazo de codigo que realiza una accion y es reutilizable
+		.operadores:   aritmeticos + - * / %           comparacion ==,===, >=, <= ,>,<,!=                 logicos= and - or
+		.algoritmos
+
+
+en el mundo real de la programacion javascript funciona o se ejecuta a partir de eventos que se "disparan" desde html algunos de estos eventos son
+	lit los eventos sirven tipo pa q al darle click redireccione o algo asi cuando cargue haga algo y etc
+	.onload
+	.onclick
+	.onchange
+	.onmouseover
